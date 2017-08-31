@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/shaodahong/learn-en/issues"
   },
-  "homepage": "https://github.com/shaodahong/learn-en#readme"
+  "homepage": "https://github.com/shaodahong/learn-en#readme",
+  "dependencies": {
+    "encoding": "^0.1.12",
+    "iconv": "^2.3.0"
+  }
 }
