@@ -1,3 +1,8 @@
+<h1 align="center">learn_en</h1>
+
+记录平时写代码中遇到的不熟练的单词
+
+------
 1, [behave](http://dict.youdao.com/w/eng/behave)  
 vi. 表现；（机器等）运转；举止端正；（事物）起某种作用 vt. 使守规矩；使表现得…
 
